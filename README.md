@@ -23,4 +23,4 @@ The Smart Healthcare Monitoring System continuously monitors patient health para
 - Predictive disease detection
 
 ## Team
-- Ieswariya R
+- Shiyam Ganesh A S
